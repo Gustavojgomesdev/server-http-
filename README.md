@@ -16,6 +16,7 @@
 ## Requisitos básicos para rodar o servidor na sua máquina: 
 * Node JS 
 * Docker
+*Git
 
 ## Passo para rodar o servidor: 
 
