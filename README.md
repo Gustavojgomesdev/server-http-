@@ -20,7 +20,7 @@
 
 ## Passo para rodar o servidor: 
 
-* Clone o repositório na sua máquina: > https://github.com/Gustavojgomesdev/server-http-.git
+* Clone o repositório na sua máquina: > git clone https://github.com/Gustavojgomesdev/server-http-.git
 * Entre no diretório: > cd server-http-
 * Escreva no seu terminal esse comando para dar início ao Docker: > docker-compose up 
 
