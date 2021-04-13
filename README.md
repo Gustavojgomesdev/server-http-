@@ -19,11 +19,11 @@
 
 ## Passo para rodar o servidor: 
 
-. Clone o repositório na sua máquina: > https://github.com/Gustavojgomesdev/server-https-.git
-. Entre no diretório: > cd server-https-
-. Escreva no seu terminal esse comando para dar início ao Docker: > docker-compose up 
+* Clone o repositório na sua máquina: > https://github.com/Gustavojgomesdev/server-https-.git
+* Entre no diretório: > cd server-https-
+* Escreva no seu terminal esse comando para dar início ao Docker: > docker-compose up 
 
 ## Servidor rodando 
-> Digite no navegador: =>  http://localhost:3000
-> Feito isso digite: http://localhost:3000/1
-> O servidor irá retonar: {"extenso":"um"}
+* Digite no navegador: =>  http://localhost:3000
+* Feito isso digite: http://localhost:3000/1
+* O servidor irá retonar: {"extenso":"um"}
